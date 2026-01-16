@@ -36,4 +36,4 @@
 
 ## 📫 Contact
 📧 muhasin.code@gmail.com  
-🔗 LinkedIn: linkedin.com/in/muhasin-code  
+🔗 LinkedIn: https://www.linkedin.com/in/muhasin-code  
